@@ -1,0 +1,20 @@
+ Atenea Asistente Virtual (Next.js + Vercel Ready)
+
+Este proyecto contiene el asistente virtual Atenea completamente listo para desplegar en Vercel.
+
+## 🚀 Instalación
+```
+npm install
+npm run dev
+```
+
+## 🔧 Variables de entorno
+Configura en Vercel o en un archivo `.env`:
+
+```
+OPENAI_API_KEY=TU_CLAVE
+WEBSITE_URL=https://webdelcliente.com
+```
+
+## 📦 Producción
+Listo para desplegar directamente en Vercel.
